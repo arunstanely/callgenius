@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="screenshots/banner.png" alt="CallGenius Banner" width="100%"/>
-</p>
-
 <h1 align="center">📞 CallGenius</h1>
 <p align="center">
   <b>AI-Powered Telecaller Training Platform for Indian SMBs</b><br/>
@@ -134,9 +130,20 @@ Preventing license sharing required a SHA-256 hash of hardware identifiers sent 
 
 ## 📱 Screenshots
 
-| Live Trainer | AI Coach Evaluation | Persona Bank | Call List CRM |
-|---|---|---|---|
-| ![Trainer](screenshots/trainer.png) | ![Coach](screenshots/coach.png) | ![PersonaBank](screenshots/persona_bank.png) | ![CallList](screenshots/call_list.png) |
+**Live Trainer — Tamil Bilingual Session**
+![Trainer Tamil](screenshots/trainer_tamil.png)
+
+**Live Trainer — Raise ON Scripted Scenario (BOM Received)**
+![Trainer Raise ON](screenshots/trainer_raise_on.png)
+
+**Live Trainer — Raise ON Scripted Scenario (Closing the Call)**
+![Trainer Closing](screenshots/trainer_closing.png)
+
+**Live Trainer — Raise ON Scripted Scenario (Opening the Call)**
+![Trainer Opening](screenshots/trainer_opening.png)
+
+**AI Auditor — Post-Call Scoring & Analysis**
+![Auditor](screenshots/auditor.png)
 
 > 📹 **Demo Video:** [Watch on YouTube](https://youtube.com/your-link-here)
 
